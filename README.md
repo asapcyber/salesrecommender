@@ -15,7 +15,10 @@ In this POC we have implemented a Collaborative Filtering Recommender System. In
 For more information on using R for predicting user/customer ratings see another example <a href=https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/>here.</a>
 
 # Software and hardware requirements
-blabla
+To use the recommender system the following software is required to be installed:
+* R version 3.1.0 64-bit (or higher version)
+* R-libraries required to run Recommenderlab, including Proxy, Arules, Registry, igraph, RWeka, ggplot2, Matrix, reshape2
+* 
 
 # Recommender system
 blabla
