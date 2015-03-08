@@ -13,3 +13,12 @@ In this POC we have implemented a Collaborative Filtering Recommender System. In
 * Creating an output matrix of recommendations (Customer x Products) as well as a log of the error estimates or recommendation accuracy.
 
 For more information on using R for predicting user/customer ratings see another example <a href=https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/>here.</a>
+
+# Software and hardware requirements
+blabla
+
+# Recommender system
+blabla
+
+# Deployment options
+blabla
